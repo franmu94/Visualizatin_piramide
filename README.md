@@ -1,4 +1,4 @@
-(https://www.iberdrola.com/documents/153844/1235365/Poblacion_Mundial_746x419.jpeg/9f5b2925-ba9a-861a-6ba5-906e1b5c3a8c?t=1639134047304)
+![imagen.jpeg](Data/imagen.jpeg)
 
 # Proyecto | Visualizacion
 
